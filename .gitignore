@@ -1,0 +1,6 @@
+.brainweb/
+data/
+*.npz
+*.bin.gz
+__pycache__/
+.DS_Store
